@@ -1,4 +1,6 @@
-
+html {
+    font-size: 1.rem;
+}
 
 button {
  border: none;
